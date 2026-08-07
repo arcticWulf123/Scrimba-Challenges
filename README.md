@@ -1,2 +1,2 @@
 # Scrimba-Challenges
-This repository contains my codes used in Scrimba challenges and quizzes regarding React.js framework. Cheers! 
+Practice repository for React.js exercises, lesson quizzes, and challenges from Scrimba.
