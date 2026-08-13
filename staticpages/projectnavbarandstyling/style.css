@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.nav {
+  background-color: #21222a;
+  display: flex;
+  justify-content: flex-start;
+  img {
+    padding: 16px 8px;
+    width: 30px;
+  }
+}
