@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+/* Universal reset CSS Proporties*/
+/* this ismy comment/*/
+body {
+  margin: 0;
+}
+
+.nav {
+  background-color: #21222a;
+  display: flex;
+  justify-content: flex-start;
+  img {
+    padding: 16px 8px;
+    width: 30px;
+  }
+}
+
+.main {
+  background-color: darkgrey;
+  
+  h1 {
+    color: white;
+  }
+  li {
+    color: white;
+  }
+
+  li:marker {
+    color: aqua;
+    font-size: 1.5rem;
+  }
+}
