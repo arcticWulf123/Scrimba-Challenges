@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  }
+
+  body {
+    background-color: #1A1B21;
+  }
+
+.header h1, .header h2, .header h3 {
+    margin: 0;
+}
+
+.header h1 {
+    color: white;
+}
+
+.header h3 {
+    color: #F3BF99;
+    
+}
+
+.header h5 {
+    color: white;
+}
+
+.button {
+    border-radius: 12px;
+    font-weight: bold;
+}
